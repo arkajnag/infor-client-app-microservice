@@ -11,8 +11,8 @@
 	<groupId>io.arkajnag</groupId>
 	<artifactId>demo-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo-client</name>
-	<description>Demo project for Spring Boot Client Application</description>
+	<name>infor-client-app-service</name>
+	<description>Infor Car Rental Protal project for Spring Boot Client Application</description>
 
 	<properties>
 		<java.version>1.8</java.version>
